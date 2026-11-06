@@ -1,6 +1,6 @@
 # Pages CMS: https://app.pagescms.org/
 media:
-  input: portfolio/assets
+  input: assets
   output: /assets
   rename: safe
   extensions:
@@ -12,7 +12,7 @@ content:
 - name: stories
   label: 九段成長故事・照片
   type: file
-  path: portfolio/content/stories.json
+  path: content/stories.json
   format: json
   list: true
   fields:
@@ -67,7 +67,7 @@ content:
 - name: roles
   label: 四個角色・插圖
   type: file
-  path: portfolio/content/roles.json
+  path: content/roles.json
   format: json
   list: true
   fields:
@@ -86,7 +86,7 @@ content:
 - name: homepage
   label: 首頁・結語
   type: file
-  path: portfolio/content/site.json
+  path: content/site.json
   format: json
   fields:
   - name: headline_first
