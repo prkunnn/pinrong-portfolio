@@ -14,8 +14,8 @@
       "市場需求"
     ],
     "images": [
-      "assets/office_romance_instagram.webp",
-      "assets/pdf_p2_37.webp"
+      "/assets/office_romance_instagram.webp",
+      "/assets/file.jpg"
     ],
     "caption": "「販售浪漫」Instagram 品牌頁面與永生花作品",
     "link": "https://www.instagram.com/office.romance_/"
@@ -35,11 +35,10 @@
       "跨域應用"
     ],
     "images": [
-      "assets/pdf_p2_38.webp",
-      "assets/pdf_p2_39.webp"
+      "/assets/pdf_p2_38.webp",
+      "/assets/pdf_p2_39.webp"
     ],
-    "caption": "青少年聊天機器人與資源媒合構想",
-    "link": ""
+    "caption": "青少年聊天機器人與資源媒合構想"
   },
   {
     "order": 3,
@@ -56,10 +55,9 @@
       "受眾溝通"
     ],
     "images": [
-      "assets/pdf_p3_45.webp"
+      "/assets/pdf_p3_45.webp"
     ],
-    "caption": "品牌影音合作作品",
-    "link": ""
+    "caption": "品牌影音合作作品"
   },
   {
     "order": 4,
@@ -76,11 +74,10 @@
       "跨校合作"
     ],
     "images": [
-      "assets/pdf_p3_46.webp",
-      "assets/pdf_p3_47.webp"
+      "/assets/pdf_p3_46.webp",
+      "/assets/pdf_p3_47.webp"
     ],
-    "caption": "「心願快線」跨校活動與團隊創業實踐",
-    "link": ""
+    "caption": "「心願快線」跨校活動與團隊創業實踐"
   },
   {
     "order": 5,
@@ -97,11 +94,10 @@
       "原創貼圖"
     ],
     "images": [
-      "assets/pdf_p4_43.webp",
-      "assets/pdf_p4_42.webp"
+      "/assets/pdf_p4_43.webp",
+      "/assets/pdf_p4_42.webp"
     ],
-    "caption": "校園角色設計、識別與原創貼圖",
-    "link": ""
+    "caption": "校園角色設計、識別與原創貼圖"
   },
   {
     "order": 6,
@@ -118,10 +114,9 @@
       "擔任講者"
     ],
     "images": [
-      "assets/pdf_p4_44.webp"
+      "/assets/pdf_p4_44.webp"
     ],
-    "caption": "「暨南閱人」團隊與活動推廣",
-    "link": ""
+    "caption": "「暨南閱人」團隊與活動推廣"
   },
   {
     "order": 7,
@@ -138,10 +133,9 @@
       "USR"
     ],
     "images": [
-      "assets/chiangmai_exchange.webp"
+      "/assets/chiangmai_exchange.webp"
     ],
-    "caption": "USR「水沙連產業永續發展計畫」｜清邁大學交流",
-    "link": ""
+    "caption": "USR「水沙連產業永續發展計畫」｜清邁大學交流"
   },
   {
     "order": 8,
@@ -158,11 +152,10 @@
       "團隊協調"
     ],
     "images": [
-      "assets/pdf_p5_29.webp",
-      "assets/pdf_p1_37.webp"
+      "/assets/pdf_p5_29.webp",
+      "/assets/pdf_p1_37.webp"
     ],
-    "caption": "偏鄉教學與數位學伴實際課程",
-    "link": ""
+    "caption": "偏鄉教學與數位學伴實際課程"
   },
   {
     "order": 9,
@@ -179,10 +172,9 @@
       "學生擔任講者"
     ],
     "images": [
-      "assets/pdf_p5_30.webp",
-      "assets/pdf_p5_31.webp"
+      "/assets/pdf_p5_30.webp",
+      "/assets/pdf_p5_31.webp"
     ],
-    "caption": "LinkEDU｜學生故事與互動式心理測驗",
-    "link": ""
+    "caption": "LinkEDU｜學生故事與互動式心理測驗"
   }
 ]
