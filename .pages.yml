@@ -1,0 +1,109 @@
+# Pages CMS: https://app.pagescms.org/
+media:
+  input: portfolio/assets
+  output: /assets
+  rename: safe
+  extensions:
+  - jpg
+  - jpeg
+  - png
+  - webp
+content:
+- name: stories
+  label: 九段成長故事・照片
+  type: file
+  path: portfolio/content/stories.json
+  format: json
+  list: true
+  fields:
+  - name: order
+    label: 顯示順序（1、2、3…）
+    type: number
+    required: true
+  - name: category
+    label: 故事分類
+    type: select
+    options:
+      values:
+      - label: 創業與行銷
+        name: startup
+      - label: 設計與共創
+        name: community
+      - label: 教育與影響
+        name: education
+  - name: stage
+    label: 章節階段
+    type: string
+  - name: focus
+    label: 重點標籤
+    type: string
+  - name: title
+    label: 故事標題
+    type: string
+    required: true
+  - name: subtitle
+    label: 故事副標題
+    type: string
+  - name: body
+    label: 故事內文（空一行代表換段）
+    type: text
+  - name: takeaway
+    label: 最重要的一句話
+    type: string
+  - name: tags
+    label: 關鍵詞
+    type: string
+    list: true
+  - name: images
+    label: 照片（可多張、可換圖）
+    type: image
+    list: true
+  - name: caption
+    label: 照片說明
+    type: string
+  - name: link
+    label: 作品／IG 外部連結（可留白）
+    type: string
+- name: roles
+  label: 四個角色・插圖
+  type: file
+  path: portfolio/content/roles.json
+  format: json
+  list: true
+  fields:
+  - name: title
+    label: 角色名稱
+    type: string
+  - name: description
+    label: 角色說明
+    type: text
+  - name: signature
+    label: 角色金句
+    type: text
+  - name: image
+    label: 角色插圖
+    type: image
+- name: homepage
+  label: 首頁・結語
+  type: file
+  path: portfolio/content/site.json
+  format: json
+  fields:
+  - name: headline_first
+    label: 首頁標題第一行
+    type: string
+  - name: headline_second
+    label: 首頁標題第二行
+    type: string
+  - name: hero_intro
+    label: 首頁介紹
+    type: text
+  - name: stories_intro
+    label: 故事區塊介紹
+    type: text
+  - name: reflection_title
+    label: 結語大標題
+    type: string
+  - name: reflection_paragraphs
+    label: 結語內文（空行分段）
+    type: text
