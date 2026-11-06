@@ -1,0 +1,26 @@
+[
+  {
+    "title": "勇於實踐的青年創業者",
+    "description": "從自主品牌到團隊創業，練習讓創意走進真實市場。",
+    "signature": "讓創意落地，也讓每次嘗試成為下一步的養分。",
+    "image": "assets/role_1.webp"
+  },
+  {
+    "title": "喜歡創造連結的青年共創者",
+    "description": "從青年小聚到跨校合作，創造讓不同經驗相遇的機會。",
+    "signature": "讓一個人的想法，成為一群人的行動。",
+    "image": "assets/role_2.webp"
+  },
+  {
+    "title": "相信教育能擴大影響力的實踐者",
+    "description": "透過教學與議題行動，讓學生有機會親自表達與參與。",
+    "signature": "讓每個人都擁有發聲與實踐的力量。",
+    "image": "assets/role_3.webp"
+  },
+  {
+    "title": "善於轉譯內容的媒體工作者",
+    "description": "以影片與故事傳遞資訊，讓值得被理解的議題被看見。",
+    "signature": "以故事連結人群，將流量轉化為影響力。",
+    "image": "assets/role_4.webp"
+  }
+]
