@@ -56,9 +56,10 @@
       "受眾溝通"
     ],
     "images": [
-      "/assets/pdf_p3_45.webp"
+      "/assets/2026-11-08-50305.png"
     ],
-    "caption": "品牌影音合作作品"
+    "caption": "品牌影音合作作品",
+    "link": "https://www.instagram.com/03__chxng/"
   },
   {
     "order": 4,
@@ -75,10 +76,11 @@
       "跨校合作"
     ],
     "images": [
-      "/assets/pdf_p3_46.webp",
-      "/assets/pdf_p3_47.webp"
+      "/assets/2026-11-08-50405-1.png",
+      "/assets/2026-11-08-50427.png"
     ],
-    "caption": "「心願快線」跨校活動與團隊創業實踐"
+    "caption": "「心願快線」跨校活動與團隊創業實踐",
+    "link": "https://www.threads.com/@zanny__official"
   },
   {
     "order": 5,
@@ -98,7 +100,8 @@
       "/assets/pdf_p4_43.webp",
       "/assets/pdf_p4_42.webp"
     ],
-    "caption": "校園角色設計、識別與原創貼圖"
+    "caption": "校園角色設計、識別與原創貼圖",
+    "link": "https://store.line.me/stickershop/product/28147941/zh-Hant?ref=Desktop"
   },
   {
     "order": 6,
@@ -117,7 +120,8 @@
     "images": [
       "/assets/pdf_p4_44.webp"
     ],
-    "caption": "「暨南閱人」團隊與活動推廣"
+    "caption": "「暨南閱人」團隊與活動推廣",
+    "link": "https://www.instagram.com/p/C765STIydqX/?img_index=1"
   },
   {
     "order": 7,
@@ -136,7 +140,8 @@
     "images": [
       "/assets/chiangmai_exchange.webp"
     ],
-    "caption": "USR「水沙連產業永續發展計畫」｜清邁大學交流"
+    "caption": "USR「水沙連產業永續發展計畫」｜清邁大學交流",
+    "link": "https://www.clir.ncnu.edu.tw/activity-records/report/the-ncnu-usr-project-team-conducts-international-exchanges-with-chiang-mai-university/"
   },
   {
     "order": 8,
@@ -156,7 +161,8 @@
       "/assets/pdf_p5_29.webp",
       "/assets/pdf_p1_37.webp"
     ],
-    "caption": "偏鄉教學與數位學伴實際課程"
+    "caption": "偏鄉教學與數位學伴實際課程",
+    "link": "https://www.instagram.com/p/DN7RPHMk9cb/?img_index=1"
   },
   {
     "order": 9,
@@ -176,6 +182,7 @@
       "/assets/pdf_p5_30.webp",
       "/assets/pdf_p5_31.webp"
     ],
-    "caption": "LinkEDU｜學生故事與互動式心理測驗"
+    "caption": "LinkEDU｜學生故事與互動式心理測驗",
+    "link": "https://www.instagram.com/link._edu/"
   }
 ]
